@@ -9,7 +9,6 @@ import Handsontable from "handsontable";
 // import 'handsontable/es/plugins/manualRowMove/manualRowMove';
 // import 'handsontable/es/plugins/comments/comments';
 import 'handsontable/es/plugins/contextMenu/contextMenu';
-import 'handsontable/es/plugins/contextMenu/contextMenu/contextMenu.css';
 // import 'handsontable/es/plugins/copyPaste/copyPaste';
 // import 'handsontable/es/plugins/customBorders/customBorders';
 // import 'handsontable/es/plugins/dragToScroll/dragToScroll';
